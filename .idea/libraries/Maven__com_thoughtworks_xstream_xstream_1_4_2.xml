@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.thoughtworks.xstream:xstream:1.4.2">
+    <CLASSES>
+      <root url="jar://E:/mav/apache-maven-3.5.4/mvn_repo/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/mav/apache-maven-3.5.4/mvn_repo/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/mav/apache-maven-3.5.4/mvn_repo/com/thoughtworks/xstream/xstream/1.4.2/xstream-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
